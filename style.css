@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+header{
+     background-color: rosybrown;
+     height: 66px;
+ }
+.link-header{
+   position: absolute;
+   margin-top: 25px;
+   margin-left: 18px;
+   border: 2px solid white;
+   background-image: linear-gradient( rosybrown, white);
+}
+.link-header:hover{
+        background-image: linear-gradient(white, rosybrown);
+}
+title{
+    color: black;
+
+}
+img{
+    margin-left: 50px;
+    margin-top: 28px;
+}
+.link-header{
+    color: black;
+}
+
+footer{
+    background-color: rosybrown;
+    height: 130px;
+    margin-top: 30px;
+}
+h1{
+    box-shadow: 4px 4px 4px 0 rgb(197, 197, 197);
+    width: 205px;
+    color: rgb(59, 51, 50);
+    margin-left: 280px;
+   
+}
+ul{
+    width: 200px;
+    border: 2px solid rgb(117, 29, 29)
+}
+.link-text{
+    color: black;
+}
+h2{
+    border: 2px solid rgb(117, 29, 29);
+    width: 230px;
+     background-image: linear-gradient( rosybrown, white);
+}
+
